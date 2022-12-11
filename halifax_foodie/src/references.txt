@@ -1,0 +1,4 @@
+https://github.com/googleapis/nodejs-ai-platform/blob/main/samples/predict-text-classification.js
+https://github.com/googleapis/nodejs-ai-platform/blob/main/samples/predict-text-classification.js
+https://www.shedloadofcode.com/blog/creating-your-own-website-analytics-solution-with-aws-lambda-and-google-sheets
+https://cloud.google.com/functions/docs/running/function-frameworks
